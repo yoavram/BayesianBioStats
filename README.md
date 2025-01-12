@@ -14,5 +14,9 @@
 - [Problem set: disease prevalence](https://github.com/yoavram/introduction_to_bayesian_inference/blob/main/problem_sets/problem_disease_prevalence.nb.html)
 - [Problem set: epileptic seizure rates](https://github.com/yoavram/introduction_to_bayesian_inference/blob/main/problem_sets/problem_epilepsy.nb.html)
 
+## Additional material
+- [Introduction to Bayesian Statistics with R / Florian Hartig](https://florianhartig.github.io/LearningBayes/index.html?utm_source=chatgpt.com): e-book
+- 
+
 ## License
 This work is licensed under a CC BY-NC-SA 4.0 International License.
