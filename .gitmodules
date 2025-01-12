@@ -1,0 +1,3 @@
+[submodule "introduction_to_bayesian_inference"]
+	path = introduction_to_bayesian_inference
+	url = git@github.com:yoavram/introduction_to_bayesian_inference.git
